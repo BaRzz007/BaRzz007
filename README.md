@@ -7,13 +7,13 @@
 
 - 💬 Ask me about **Python, C**
 
-- 📫 How to reach me **twitter.com/barzz007**
+[//]: # (- 📫 How to reach me **twitter.com/barzz007**)
 
 - ⚡ Fun fact **I love to read**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/barzz777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barzz777" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/barzz777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barzz777" height="30" width="40" /></a> ) -->
 <a href="https://linkedin.com/in/ezekiel-bassey-804182211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwin/ezekiel-bassey-804182211/" height="30" width="40" /></a>
 </p>
 
